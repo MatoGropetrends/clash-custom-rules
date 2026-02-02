@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,aiplatform.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,notifications-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,z.ai
